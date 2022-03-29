@@ -8,6 +8,6 @@ required modules
 you must provide the authorization codes in the authorization file before use
 
 how to use:
-provide args <name of artist> <export format> <resoult >
+provide args "name of artist", "export format", resoult file"
 
 
